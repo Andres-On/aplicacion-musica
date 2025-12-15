@@ -1,24 +1,24 @@
 **Proyecto de Aplicación Móvil**
 
-1. Descripción del proyecto
+1. Descripción del proyecto:
 El proyecto consiste en el desarrollo de una aplicación móvil para Android llamada MusicFinder, diseñada para permitir a los usuarios buscar artistas o bandas musicales y acceder a información detallada sobre ellos.
 La app mostrará datos como biografía, discografía, letras de canciones populares y enlaces a sitios oficiales o redes sociales, utilizando una API pública de música (por ejemplo, TheAudioDB, Last.fm o Musixmatch API) (The AudioDB, s.f.).
 El objetivo principal es ofrecer una herramienta práctica, visualmente atractiva y fácil de usar para los amantes de la música que deseen conocer más sobre sus artistas favoritos.
 
-2. Exposición del problema
+2. Exposición del problema:
 En la actualidad, los fanáticos de la música deben utilizar diversas plataformas o motores de búsqueda para obtener información completa sobre un artista: biografía en una página, letras en otra y redes sociales en otra distinta.
 Esto implica pérdida de tiempo y una experiencia fragmentada.
 La aplicación MusicFinder busca unificar esta información en un solo lugar, simplificando el acceso a los datos más relevantes de cada artista.
 Además, puede servir como base para futuras integraciones, como recomendaciones personalizadas o conexión con servicios de streaming.
 
 
-3. Plataforma
+3. Plataforma:
 La aplicación se desarrollará para dispositivos Android, utilizando Android Studio como entorno de desarrollo y Kotlin o Java como lenguaje principal.
 La app consumirá datos desde una API RESTful externa mediante solicitudes HTTP (GET) y parseo de JSON.
 Se implementará un diseño adaptable a distintas resoluciones de pantalla mediante XML layouts y el uso de componentes de Material Design.
 En fases posteriores, se podría considerar la publicación de la app en Google Play Store. (Spotify for Developers, s.f.).
 
-4. Interfaz de usuario e interfaz de administrador
+4. Interfaz de usuario e interfaz de administrador:
 Interfaz de usuario (Frontend):
 - Pantalla inicial con barra de búsqueda para ingresar el nombre del artista o banda.
 - Resultados con nombre, imagen y breve descripción.
