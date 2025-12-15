@@ -1,6 +1,8 @@
 **Proyecto de Aplicación Móvil MusicFinder**
 
 Alumno : Andres Ongaro Miranda
+Curso: Desarrollo de Aps Móviles COM-437ES-AVOL1
+Universidad: Saint Leo 
 
 1. Descripción del proyecto:
 El proyecto consiste en el desarrollo de una aplicación móvil para Android llamada MusicFinder, diseñada para permitir a los usuarios buscar artistas o bandas musicales y acceder a información detallada sobre ellos.
