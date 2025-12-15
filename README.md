@@ -55,3 +55,8 @@ Pantalla 2 – Detalles del artista:
 Pantalla 3 – Favoritos:
 - Lista de artistas guardados.
 - Opción para eliminar o ver detalles.
+
+7 Grafico
+
+<img width="504" height="338" alt="image" src="https://github.com/user-attachments/assets/4a69c610-cdd2-4ce8-aa9f-03755619c196" />
+
