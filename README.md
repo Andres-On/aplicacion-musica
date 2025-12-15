@@ -1,3 +1,5 @@
+**Proyecto de Aplicación Móvil**
+
 1. Descripción del proyecto
 El proyecto consiste en el desarrollo de una aplicación móvil para Android llamada MusicFinder, diseñada para permitir a los usuarios buscar artistas o bandas musicales y acceder a información detallada sobre ellos.
 La app mostrará datos como biografía, discografía, letras de canciones populares y enlaces a sitios oficiales o redes sociales, utilizando una API pública de música (por ejemplo, TheAudioDB, Last.fm o Musixmatch API) (The AudioDB, s.f.).
